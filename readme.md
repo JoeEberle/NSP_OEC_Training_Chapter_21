@@ -36,7 +36,7 @@ To get started with the **Nsp Oec Training Chapter 21** solution repository, fol
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](brain_injury.png)  <br>![additional_image](jams_and_pretzels.png)  <br>![additional_image](NSP_OEC_Training_Chapter_21.png)  <br>![additional_image](primary_assessment_spinal.png)  <br>
+ ![additional_image](brain_injury.png)  <br>![additional_image](CNS Central Nervous system spine.png)  <br>![additional_image](jams_and_pretzels.png)  <br>![additional_image](NSP_OEC_Training_Chapter_21.png)  <br>![additional_image](primary_assessment_spinal.png)  <br>![additional_image](spine.png)  <br>
     
 
 ## Github    
